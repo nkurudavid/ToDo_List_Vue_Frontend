@@ -1,6 +1,7 @@
 # vuengo
 
-This template should help get you started developing with Vue 3 in Vite.
+![image](https://user-images.githubusercontent.com/122406122/231317475-ab04b153-836b-4653-acc9-86bcc4c41a8d.png)
+
 
 ## Recommended IDE Setup
 
