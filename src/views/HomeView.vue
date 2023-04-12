@@ -149,6 +149,8 @@
           }).catch((error) => {
             console.log(error);
           })
+        }else{
+          alert("All fields are required! Please fill the form correctly.");
         }
       },
       setStatus(task_id, status) {
